@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../components/Images/my-image3.png' 
+import pic from '../components/Images/photo.avif' 
 
 import { ReactTyped } from "react-typed";
 

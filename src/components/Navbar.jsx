@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import pic from '../components/Images/my-image3.png' 
+import pic from '../components/Images/photo.avif' 
 
 import { AiOutlineMenu } from "react-icons/ai";
 import { IoCloseOutline } from "react-icons/io5";

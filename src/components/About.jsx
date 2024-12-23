@@ -57,40 +57,41 @@ function About() {
            </thead>
            {/*table body start from here */}
            <tbody>
-            {/*3*/}
+
+            {/*1*/}
             <tr class="hover:bg-slate-50">
         <td class="p-4">
           <p class="text-sm font-bold">
-            Industrial Training
+            12<sup>th</sup>
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-           Rajiv Gandhi Cancer Institute and Research Center 
+           Gov't Sarvodaya Vidhayala Rohini Sec-8 
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            IT Developer
+            Medical Science Stream
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            ---
+            C.B.S.E
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            2024
+            2021
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            ---
+            61.1%
           </p>
         </td>
              </tr>
-            {/*2*/}
+                {/*2*/}
              <tr class="hover:bg-slate-50">
               <td class="p-4">
           <p class="text-sm font-bold">
@@ -127,65 +128,32 @@ function About() {
              <tr class="hover:bg-slate-50">
         <td class="p-4">
           <p class="text-sm font-bold">
-            12<sup>th</sup>
+            Industrial Training
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-           Gov't Sarvodaya Vidhayala Rohini Sec-8 
+           Rajiv Gandhi Cancer Institute and Research Center 
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            Medical Science Stream
+            IT Developer
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            C.B.S.E
+            ---
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            2021
+            2024
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            61.1%
-          </p>
-        </td>
-             </tr>
-             {/*4*/}
-             <tr class="hover:bg-slate-50">
-        <td class="p-4">
-          <p class="text-sm font-bold">
-            10<sup>th</sup>
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-           Gov't Sarvodaya Vidhayala Rohini Sec-8 
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            General
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            C.B.S.E
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            2019
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            61.1%
+            ---
           </p>
         </td>
              </tr>
