@@ -1,5 +1,5 @@
 import React from 'react'
-import pic from '../components/Images/my-image3.png' 
+import pic from '../components/Images/Untitled2.png' 
 
 import { ReactTyped } from "react-typed";
 
@@ -67,20 +67,20 @@ function Home() {
               </div>
               <div className='space-y-2'>
                 <h1 className='font-bold'>Currently working on</h1>
-                <div className='flex space-x-5'>
-                   <TbFileTypePhp className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'/>
-                   <TbBrandReact className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'/>
-                   <LiaJava className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'/>
-                   <TbBrandJavascript className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'/>
+                <div className='flex space-x-5 justify-center'>
+                   <TbFileTypePhp size={24} className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer'/>
+                   <TbBrandReact size={24} className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer'/>
+                   <LiaJava size={24} className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer'/>
+                  <TbBrandJavascript size={24} className='text-xl md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px] cursor-pointer'/>
                 </div>
               </div>
              </div>
            </div>
            {/*right side*/}
-           <div className='md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1'>
+           <div className=' flex justify-center md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1'>
             <img 
             src={pic} 
-            className='rounded-full md:h-[450px] md:w-[450px]' 
+            className='rounded-full md:h-[450px] md:w-[450px] bg-slate-300' 
             alt="" />
            </div>
        </div>
