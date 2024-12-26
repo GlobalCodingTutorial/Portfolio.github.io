@@ -42,14 +42,15 @@ function About() {
         </th>
         <th class="p-4">
           <p class="text-sm leading-none font-normal">
-            Education Board
+            Completed
           </p>
         </th>
         <th class="p-4">
           <p class="text-sm leading-none font-normal">
-            Completed
+            Education Board
           </p>
         </th>
+
         <th class="p-4">
           <p class="text-sm leading-none font-normal">
             Percentage
@@ -79,12 +80,12 @@ function About() {
         </td>
         <td class="p-4">
           <p class="text-sm">
-            C.B.S.E
+            2021
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            2021
+            C.B.S.E
           </p>
         </td>
         <td class="p-4">
@@ -112,14 +113,14 @@ function About() {
               </td>
               <td class="p-4">
                <p class="text-sm">
-                B.T.E
+                2024
                </p>
               </td>
               <td class="p-4">
                <p class="text-sm">
-                2024
+                B.T.E
                </p>
-          </td>
+              </td>
               <td class="p-4">
                <p class="text-sm">
                 75%
@@ -145,12 +146,12 @@ function About() {
         </td>
         <td class="p-4">
           <p class="text-sm">
-            ---
+            2024
           </p>
         </td>
         <td class="p-4">
           <p class="text-sm">
-            2024
+            ---
           </p>
         </td>
         <td class="p-4">
