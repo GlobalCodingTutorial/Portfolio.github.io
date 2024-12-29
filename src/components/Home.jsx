@@ -21,15 +21,20 @@ function Home() {
            <div className='md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1'>
              <span className='text-xl'>Welcome In My Feed</span>
              <div className='flex space-x-1 text-2xl md:text-4xl'>
-               <h1>Hello, I'm a</h1>
-               {/*<span className='text-red-700 font-bold'> Developer</span>*/}
-               <ReactTyped
+               <h1>Hello,
+                <br /><h2 className='text-blue-400'>I'm a &nbsp;
+                <span>
+                  {/*<span className='text-red-700 font-bold'> Developer</span>*/}
+                <ReactTyped 
                 className='text-red-700 font-bold'
                 strings={["Developer","Programmer","Coder"]}
                 typeSpeed={40}
                 backSpeed={50}
                 loop={true}
                />
+                </span>
+                </h2>
+               </h1>
              </div>
              <br />
              <p className='text-sm md:text-md text-justify'>
@@ -80,7 +85,7 @@ function Home() {
            <div className=' flex justify-center md:w-1/2 md:ml-48 md:mt-20 mt-8 order-1'>
             <img 
             src={pic} 
-            className='rounded-full md:h-[450px] md:w-[450px] bg-slate-300' 
+            className='rounded-full md:h-[450px] md:w-[450px] bg-blue-100' 
             alt="" />
            </div>
        </div>
