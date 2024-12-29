@@ -23,7 +23,6 @@ function Home() {
              <div className='flex space-x-1 text-2xl md:text-4xl'>
                <h1>Hello,
                 <br /><h2 className='text-blue-400'>I'm a &nbsp;
-                <span>
                   {/*<span className='text-red-700 font-bold'> Developer</span>*/}
                 <ReactTyped 
                 className='text-red-700 font-bold'
@@ -32,7 +31,6 @@ function Home() {
                 backSpeed={50}
                 loop={true}
                />
-                </span>
                 </h2>
                </h1>
              </div>
