@@ -19,7 +19,6 @@ function Home() {
          <div className='flex flex-col md:flex-row'>
             {/*left side*/}
            <div className='md:w-1/2 mt-12 md:mt-24 space-y-2 order-2 md:order-1'>
-             <span className='text-xl'>Welcome In My Feed</span>
              <div className='flex space-x-1 text-2xl md:text-4xl'>
                <h1>Hello,
                 <br /><h2 className='text-blue-400'>I'm a &nbsp;
@@ -34,9 +33,10 @@ function Home() {
                 </h2>
                </h1>
              </div>
+             <span className='text-xl'>Welcome In My Feed</span>
              <br />
              <p className='text-sm md:text-md text-justify'>
-               Hi, I’m Vikas Gola, As a fresher developer, I am driven by a passion for technology and a relentless desire to 
+               I’m Vikas Gola, As a fresher developer, I am driven by a passion for technology and a relentless desire to 
                learn and grow. With a strong foundation in coding, problem-solving, and creativity, I am 
                eager to take on new challenges, collaborate with experienced professionals, and 
                contribute to meaningful projects. My focus is on continuous improvement, adapting to 
