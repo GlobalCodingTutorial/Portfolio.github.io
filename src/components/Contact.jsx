@@ -27,6 +27,7 @@ function Contact() {
         <div className='flex flex-col items-center justify-center mt-5'>
           <form
            onSubmit={handleSubmit(onSubmit)}
+           data-netlify="true"
           // action="https://getform.io/f/bnllzjnb"
            //method="POST" 
            className='bg-slate-200 w-96 px-8 py-6 rounded-xl'>
