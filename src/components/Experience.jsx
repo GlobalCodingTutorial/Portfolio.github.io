@@ -4,7 +4,6 @@ import css from '../components/Images/css.jpg'
 import js from '../components/Images/javascript.png'
 import php from '../components/Images/php.webp'
 import sql from '../components/Images/sql.jpg'
-import java from '../components/Images/java.png'
 import xampp from '../components/Images/xampp.png'
 
 function Experience() {
@@ -35,11 +34,6 @@ function Experience() {
             name:"SQL"
         },
         {
-            id:6,
-            logo:java,
-            name:"JAVA"
-        },
-        {
             id:7,
             logo:xampp,
             name:"XAMPP"
@@ -51,7 +45,7 @@ function Experience() {
         <div name='Experience' className='max-w-screen-2xl container mx-auto px-4 md:px-20 my-16'>
       <div className='text-sm md:text-lg text-justify'>
         <h1 className='mb-5 text-3xl font-bold'>Experience</h1>        
-        <p className=''>I'm a fresher having experience in below technologies :-</p>
+        <p className=''>I'm a fresher having experience in below technologies</p>
         <br />
         <div className='grid grid-cols-2 gap-7 my-3 md:grid-cols-5'>
            {cardItems.map(({id,logo,name})=>(
