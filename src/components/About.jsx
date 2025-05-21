@@ -176,14 +176,14 @@ function About() {
           <b>
            Programming Skills :-
           </b>
-          Frontend(html,css & js) and Backend(Basic Java & php), framework(Bootstrap, Tailwind CSS), tools(Vscode, Xampp, Nodejs & Mysqli).
+          Frontend(html,css & js) and Backend(Basic Java & php), framework(Bootstrap, Tailwind CSS, Spring-boot), tools(Vscode, Xampp, Apache Tomcat & Mysqli).
         </li>
         <br />
         <li>
           <b>
             Techanical Skills :-
           </b>
-          Database management, Computer operator, Operating system, Project management.
+          Database management, Computer operator, File management, Project management.
         </li>
         <br />
         <li>
@@ -234,10 +234,7 @@ function About() {
       Mission Statement
      </h1>
      <span className='text-sm md:text-lg text-justify'>
-      Seeking an entry-level position where I can leverage my
-      academic knowledge and technical expertise to
-      contribute effectively to organizational goals while
-      gaining valuable industry experience.
+      As a fresher web developer, my mission is to build visually engaging, user-friendly, and     responsive websites by applying modern web technologies and a continuous learning mindset. I am committed to writing clean, maintainable code and delivering solutions that meet both user needs and business goals. With a strong foundation in HTML, CSS, JavaScript, and frameworks like React, I aim to grow into a full-stack developer who contributes to innovative, high-impact web applications. I thrive on challenges and am eager to collaborate, adapt, and evolve in the dynamic world of web development.
      </span>
     </div>
     </div>
