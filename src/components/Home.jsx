@@ -57,7 +57,7 @@ function Home() {
                   </a>
                  </li>
                  <li className='text-2xl cursor-pointer hover:scale-110 duration-200'>
-                  <a href="https://www.linkedin.com/in/vikas-gola-5774b2315/" target="_blank">
+                  <a href="https://www.linkedin.com/in/vikas-gola-821207370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
                    <FaLinkedin />
                   </a>
                  </li>
