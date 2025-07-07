@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React ,{ useState } from 'react'
 import pic from '../components/Images/Untitled2.png' 
 
 import { AiOutlineMenu } from "react-icons/ai";
