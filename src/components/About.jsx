@@ -12,7 +12,7 @@ function About() {
      <br />
      {/*Education & Traning*/}
      <h1 className='text-green-600 font-semibold text-xl'>
-      Education & Traning
+      Education
      </h1>
      <span className='text-sm md:text-lg'>
        <div class="relative flex flex-col w-full h-full overflow-scroll text-gray-700 bg-white shadow-md rounded-lg bg-clip-border">
@@ -122,39 +122,7 @@ function About() {
                </p>
               </td>
              </tr>
-             {/*3*/}
-             <tr class="hover:bg-slate-50">
-        <td class="p-4">
-          <p class="text-sm font-bold">
-            Industrial Training
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-           Rajiv Gandhi Cancer Institute and Research Center 
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            IT Developer
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            2024
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            ---
-          </p>
-        </td>
-        <td class="p-4">
-          <p class="text-sm">
-            ---
-          </p>
-        </td>
-             </tr>
+            
            </tbody>
          </table>
        </div>
