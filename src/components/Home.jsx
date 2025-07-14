@@ -36,7 +36,11 @@ function Home() {
              <span className='text-xl'>Welcome In My Feed</span>
              <br />
              <p className='text-sm md:text-md text-justify'>
-              I'm Vikas Gola, a passionate learner and developer driven by curiosity and a love for technology. I enjoy solving problems, exploring new tools, and constantly improving my skills to contribute to meaningful and innovative projects.
+               I'm Vikas Gola, a passionate learner and aspiring developer with a strong interest in technology and
+               innovation. I enjoy exploring new tools, solving real-world problems, and continuously expanding my
+               skills. Whether it’s understanding new frameworks, collaborating on projects, or adapting to industry 
+               trends, I’m always eager to grow and contribute to impactful, meaningful work. My goal is to keep learning
+               , improving, and adding value to every team I’m part of.             
              </p>
              <br />
              {/*Social media icon*/}
