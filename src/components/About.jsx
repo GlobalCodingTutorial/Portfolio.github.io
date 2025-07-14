@@ -188,7 +188,7 @@ function About() {
         </td>
         <td class="p-4">
           <p class="text-sm">
-            Mar/2024 - Jun/2024
+            Mar/2024 - May/2024
           </p>
         </td>
              </tr>
