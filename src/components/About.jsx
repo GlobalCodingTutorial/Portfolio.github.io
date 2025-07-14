@@ -7,12 +7,7 @@ function About() {
     <div>
     <h1 className='text-3xl font-bold mb-5'>About</h1>    
      <p className='text-sm md:text-lg text-justify'>
-     I am a recent computer science graduate with a strong passion for software development 
-     and problem-solving. Skilled in programming languages such as Java, Php, 
-     and JavaScript, as well as web development technologies like HTML, CSS, and 
-     React, I am eager to apply my technical knowledge in real-world projects. 
-     A quick learner with a collaborative mindset, I am excited to grow as a 
-     developer and contribute to innovative solutions in a dynamic work environment.
+       I'm a computer science diploma graduate with a passion for building smart, practical web's. Skilled in Java, PHP, JavaScript, and modern web technologies like React, I thrive on solving problems and learning fast. With a team-first mindset and a drive to grow, I'm ready to take on real-world challenges and create impactful solutions.
      </p>
      <br />
      {/*Education & Traning*/}
