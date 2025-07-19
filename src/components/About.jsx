@@ -127,7 +127,38 @@ function About() {
                </p>
               </td>
              </tr>
-        
+                     <tr class="hover:bg-slate-50">
+              <td class="p-4">
+          <p class="text-sm font-bold">
+            Graduation 
+          </p>
+              </td>
+              <td class="p-4">
+          <p class="text-sm">
+            Manipal University Jaipur 
+          </p>
+              </td>
+              <td class="p-4">
+               <p class="text-sm">
+                  Bachelor of Computer Applications
+               </p>
+              </td>
+              <td class="p-4">
+               <p class="text-sm">
+                Pursuing
+               </p>
+              </td>
+              <td class="p-4">
+               <p class="text-sm">
+                Manipal University 
+               </p>
+              </td>
+              <td class="p-4">
+               <p class="text-sm">
+                ---
+               </p>
+              </td>
+             </tr>
            </tbody>
          </table>
        </div>
