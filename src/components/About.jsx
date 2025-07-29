@@ -27,7 +27,7 @@ function About() {
            <tr class="text-slate-500 border-b border-slate-300 bg-slate-50">
         <th class="p-4">
           <p class="text-sm leading-none font-normal">
-            Course
+            Education 
           </p>
         </th>
         <th class="p-4">
@@ -37,7 +37,7 @@ function About() {
         </th>
         <th class="p-4">
           <p class="text-sm leading-none font-normal">
-            Field
+            Course
           </p>
         </th>
         <th class="p-4">
