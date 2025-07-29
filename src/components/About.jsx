@@ -237,7 +237,7 @@ function About() {
               </td>
               <td class="p-4">
                <p class="text-sm">
-                GeM Portal Operator
+                GeM Portal Executive 
                </p>
               </td>
               <td class="p-4">
