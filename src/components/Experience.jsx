@@ -4,6 +4,7 @@ import css from '../components/Images/css.jpg'
 import js from '../components/Images/javascript.png'
 import php from '../components/Images/php.webp'
 import sql from '../components/Images/sql.jpg'
+import java from '../components/Images/java.png'
 import xampp from '../components/Images/xampp.png'
 
 function Experience() {
@@ -32,6 +33,11 @@ function Experience() {
             id:5,
             logo:sql,
             name:"SQL"
+        },
+        {
+            id:6,
+            logo:java,
+            name:"Java"
         },
         {
             id:7,
