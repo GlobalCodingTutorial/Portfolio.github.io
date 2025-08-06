@@ -35,7 +35,7 @@ function Portfolio() {
             name:"SQL"
         },
         {
-            id:,
+            id:6,
             logo:java,
             name:"Java"
         }
