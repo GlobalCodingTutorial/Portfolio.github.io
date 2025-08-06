@@ -4,6 +4,7 @@ import css from '../components/Images/css.jpg'
 import js from '../components/Images/javascript.png'
 import php from '../components/Images/php.webp'
 import sql from '../components/Images/sql.jpg'
+import java from '../components/Images/java.png'
 
 
 function Portfolio() {
@@ -32,7 +33,12 @@ function Portfolio() {
             id:5,
             logo:sql,
             name:"SQL"
-        }
+        },
+        {
+            id:,
+            logo:java,
+            name:"Java"
+        },
 
     ]
   return (
