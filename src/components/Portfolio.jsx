@@ -38,7 +38,7 @@ function Portfolio() {
             id:,
             logo:java,
             name:"Java"
-        },
+        }
 
     ]
   return (
